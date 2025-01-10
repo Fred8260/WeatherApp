@@ -49,5 +49,4 @@ The **Weather App** is a simple and user-friendly web application that provides 
 - Allow users to switch between Celsius and Fahrenheit.
 - Dark and light mode toggle.
 
-### Contributing
-Contributions are welcome! Feel free to fork the project and submit a pull request with new features or improvements. Please open an issue for any bugs or suggestions.
+
